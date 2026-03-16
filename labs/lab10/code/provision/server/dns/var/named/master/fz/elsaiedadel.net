@@ -1,0 +1,24 @@
+$ORIGIN .
+$TTL 86400	; 1 day
+elsaiedadel.net		IN SOA	elsaiedadel.net. server.elsaiedadel.net. (
+				2026010400 ; serial
+				86400      ; refresh (1 day)
+				3600       ; retry (1 hour)
+				604800     ; expire (1 week)
+				10800      ; minimum (3 hours)
+				)
+			NS	elsaiedadel.net.
+			A	192.168.1.1
+			MX 10	mail.elsaiedadel.net.
+$ORIGIN elsaiedadel.net.
+$TTL 1200	; 20 minutes
+client			A	192.168.1.30
+			DHCID	( AAEBX8sospd6ax62I070P8/KanEQSu0ORuU8Usd/yocn
+				WJ8= ) ; 1 1 32
+$TTL 86400	; 1 day
+dhcp			A	192.168.1.1
+ns			A	192.168.1.1
+server			A	192.168.1.1
+www			A	192.168.1.1
+mail			A	192.168.1.1
+
