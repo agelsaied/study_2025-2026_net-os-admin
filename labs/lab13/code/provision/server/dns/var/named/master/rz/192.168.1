@@ -1,0 +1,23 @@
+$ORIGIN .
+$TTL 86400	; 1 day
+1.168.192.in-addr.arpa	IN SOA	1.168.192.in-addr.arpa. server.elsaiedadel.net. (
+				2026010400 ; serial
+				86400      ; refresh (1 day)
+				3600       ; retry (1 hour)
+				604800     ; expire (1 week)
+				10800      ; minimum (3 hours)
+				)
+			NS	1.168.192.in-addr.arpa.
+			A	192.168.1.1
+			PTR	server.elsaiedadel.net.
+			MX 10	mail.elsaiedadel.net.
+$ORIGIN 1.168.192.in-addr.arpa.
+1			PTR	server.elsaiedadel.net.
+			PTR	ns.elsaiedadel.net.
+			PTR	dhcp.elsaiedadel.net.
+			PTR	www.elsaiedadel.net.
+			PTR	mail.elsaiedadel.net.
+$TTL 1200	; 20 minutes
+30			PTR	client.elsaiedadel.net.
+			DHCID	( AAEBX8sospd6ax62I070P8/KanEQSu0ORuU8Usd/yocn
+				WJ8= ) ; 1 1 32

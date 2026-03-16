@@ -1,0 +1,29 @@
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on ::1#53
+no longer listening on fe80::a00:27ff:fefb:7db%2#53
+no longer listening on 10.0.2.15#53
+no longer listening on fd17:625c:f037:2:a00:27ff:fefb:7db#53
+no longer listening on fe80::bc19:1b17:bbc6:cd99%3#53
+no longer listening on 192.168.1.1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 14
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone elsaiedadel.net/IN: loaded serial 2026010400
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2026010400
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+resolver priming query complete: timed out
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
