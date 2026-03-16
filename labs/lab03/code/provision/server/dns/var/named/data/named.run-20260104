@@ -1,0 +1,1347 @@
+managed-keys-zone: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+resolver priming query complete: timed out
+broken trust chain resolving 'mirrors.fedoraproject.org/A/IN': 38.145.32.13#53
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on ::1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 2
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2026010200
+zone elsaiedadel.net/IN: loaded serial 2026010200
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+resolver priming query complete: timed out
+client @0x7f0b4c016328 127.0.0.1#33561 (elsaiedadel.net): transfer of 'elsaiedadel.net/IN': AXFR started (serial 2026010200)
+client @0x7f0b4c016328 127.0.0.1#33561 (elsaiedadel.net): transfer of 'elsaiedadel.net/IN': AXFR ended: 1 messages, 6 records, 184 bytes, 0.001 secs (184000 bytes/sec) (serial 2026010200)
+shut down hung fetch while resolving 'mirror.team-host.ru/AAAA'
+shut down hung fetch while resolving 'mirror.team-host.ru/A'
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+no longer listening on ::1#53
+no longer listening on fd17:625c:f037:2:a00:27ff:fefb:7db#53
+no longer listening on fe80::a00:27ff:fefb:7db%2#53
+no longer listening on fe80::5753:53ee:a723:b15e%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 3
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2026010200
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone elsaiedadel.net/IN: loaded serial 2026010200
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+resolver priming query complete: timed out
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+clients-per-query increased to 15
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+no longer listening on ::1#53
+no longer listening on fd17:625c:f037:2:a00:27ff:fefb:7db#53
+no longer listening on fe80::a00:27ff:fefb:7db%2#53
+no longer listening on fe80::5753:53ee:a723:b15e%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 4
+zone localhost.localdomain/IN: loaded serial 0
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone elsaiedadel.net/IN: loaded serial 2026010200
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2026010200
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+resolver priming query complete: timed out
+broken trust chain resolving 'rockylinux.org/DS/IN': 199.19.57.1#53
+broken trust chain resolving 'mirrors.rockylinux.org/A/IN': 108.162.192.188#53
+broken trust chain resolving 'mirrors.rockylinux.org/AAAA/IN': 108.162.192.188#53
+client @0x7f5838034ea8 192.168.1.1#49379/key dhcp_updater: updating zone 'elsaiedadel.net/IN': adding an RR at 'client.elsaiedadel.net' A 192.168.1.30
+client @0x7f5838034ea8 192.168.1.1#49379/key dhcp_updater: updating zone 'elsaiedadel.net/IN': adding an RR at 'client.elsaiedadel.net' DHCID AAEBX8sospd6ax62I070P8/KanEQSu0ORuU8Usd/yocnWJ8=
+client @0x7f5838034ea8 192.168.1.1#60048/key dhcp_updater: updating zone '1.168.192.in-addr.arpa/IN': deleting rrset at '30.1.168.192.in-addr.arpa' PTR
+client @0x7f5838034ea8 192.168.1.1#60048/key dhcp_updater: updating zone '1.168.192.in-addr.arpa/IN': deleting rrset at '30.1.168.192.in-addr.arpa' DHCID
+client @0x7f5838034ea8 192.168.1.1#60048/key dhcp_updater: updating zone '1.168.192.in-addr.arpa/IN': adding an RR at '30.1.168.192.in-addr.arpa' PTR client.elsaiedadel.net.
+client @0x7f5838034ea8 192.168.1.1#60048/key dhcp_updater: updating zone '1.168.192.in-addr.arpa/IN': adding an RR at '30.1.168.192.in-addr.arpa' DHCID AAEBX8sospd6ax62I070P8/KanEQSu0ORuU8Usd/yocnWJ8=
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+no longer listening on ::1#53
+no longer listening on fd17:625c:f037:2:a00:27ff:fefb:7db#53
+no longer listening on fe80::a00:27ff:fefb:7db%2#53
+no longer listening on fe80::5753:53ee:a723:b15e%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 5
+zone localhost/IN: loaded serial 0
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone elsaiedadel.net/IN: loaded serial 2026010201
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2026010201
+all zones loaded
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './DNSKEY/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+running
+listening on IPv4 interface eth1, 192.168.1.1#53
+network unreachable resolving 'org/NS/IN': 2001:7fd::1#53
+network unreachable resolving 'org/NS/IN': 2001:500:1::53#53
+listening on IPv4 interface eth0, 10.0.2.15#53
+network unreachable resolving 'ntp.org/NS/IN': 2001:500:48::1#53
+network unreachable resolving 'ntp.org/NS/IN': 2001:500:c::1#53
+network unreachable resolving 'ntp.org/NS/IN': 2001:500:f::1#53
+network unreachable resolving 'c0.org.afilias-nst.info/A/IN': 2001:500:41::1#53
+network unreachable resolving 'c0.org.afilias-nst.info/A/IN': 2001:500:19::1#53
+network unreachable resolving 'c0.org.afilias-nst.info/A/IN': 2001:500:1b::1#53
+managed-keys-zone: Initializing automatic trust anchor management for zone '.'; DNSKEY ID 20326 is now trusted, waiving the normal 30-day waiting period.
+managed-keys-zone: Initializing automatic trust anchor management for zone '.'; DNSKEY ID 38696 is now trusted, waiving the normal 30-day waiting period.
+network unreachable resolving 'anyns.pch.net/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'anyns.pch.net/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'e.edu-servers.net/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'e.edu-servers.net/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'a.edu-servers.net/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'a.edu-servers.net/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'b.edu-servers.net/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'b.edu-servers.net/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'anyns.pch.net/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'anyns.pch.net/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'e.edu-servers.net/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'e.edu-servers.net/AAAA/IN': 2001:503:d414::30#53
+listening on IPv6 interface eth0, fd17:625c:f037:2:a00:27ff:fefb:7db#53
+no longer listening on fe80::5753:53ee:a723:b15e%3#53
+no longer listening on 192.168.1.1#53
+listening on IPv6 interface eth1, fe80::424d:d217:c931:514b%3#53
+listening on IPv4 interface eth1, 192.168.1.1#53
+client @0x7f5f84048d58 192.168.1.1#51357/key dhcp_updater: updating zone 'elsaiedadel.net/IN': deleting an RR at client.elsaiedadel.net A
+client @0x7f5f84048d58 192.168.1.1#42213/key dhcp_updater: updating zone 'elsaiedadel.net/IN': delete all rrsets from name 'client.elsaiedadel.net'
+client @0x7f5f8c222aa8 192.168.1.1#52767/key dhcp_updater: updating zone '1.168.192.in-addr.arpa/IN': delete all rrsets from name '30.1.168.192.in-addr.arpa'
+shut down hung fetch while resolving 'api.beacondb.net/AAAA'
+shut down hung fetch while resolving 'api.beacondb.net/A'
+client @0x7f5f8c222aa8 192.168.1.1#47722/key dhcp_updater: updating zone 'elsaiedadel.net/IN': adding an RR at 'client.elsaiedadel.net' A 192.168.1.30
+client @0x7f5f8c222aa8 192.168.1.1#47722/key dhcp_updater: updating zone 'elsaiedadel.net/IN': adding an RR at 'client.elsaiedadel.net' DHCID AAEBX8sospd6ax62I070P8/KanEQSu0ORuU8Usd/yocnWJ8=
+client @0x7f5f84048d58 192.168.1.1#54973/key dhcp_updater: updating zone '1.168.192.in-addr.arpa/IN': deleting rrset at '30.1.168.192.in-addr.arpa' PTR
+client @0x7f5f84048d58 192.168.1.1#54973/key dhcp_updater: updating zone '1.168.192.in-addr.arpa/IN': deleting rrset at '30.1.168.192.in-addr.arpa' DHCID
+client @0x7f5f84048d58 192.168.1.1#54973/key dhcp_updater: updating zone '1.168.192.in-addr.arpa/IN': adding an RR at '30.1.168.192.in-addr.arpa' PTR client.elsaiedadel.net.
+client @0x7f5f84048d58 192.168.1.1#54973/key dhcp_updater: updating zone '1.168.192.in-addr.arpa/IN': adding an RR at '30.1.168.192.in-addr.arpa' DHCID AAEBX8sospd6ax62I070P8/KanEQSu0ORuU8Usd/yocnWJ8=
+clients-per-query increased to 15
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on ::1#53
+no longer listening on fe80::a00:27ff:fefb:7db%2#53
+no longer listening on 10.0.2.15#53
+no longer listening on fd17:625c:f037:2:a00:27ff:fefb:7db#53
+no longer listening on fe80::424d:d217:c931:514b%3#53
+no longer listening on 192.168.1.1#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 6
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2026010300
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone elsaiedadel.net/IN: loaded serial 2026010300
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+resolver priming query complete: timed out
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+shut down hung fetch while resolving 'push.services.mozilla.com/A'
+shut down hung fetch while resolving 'push.services.mozilla.com/AAAA'
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+no longer listening on ::1#53
+no longer listening on fd17:625c:f037:2:a00:27ff:fefb:7db#53
+no longer listening on fe80::a00:27ff:fefb:7db%2#53
+no longer listening on fe80::424d:d217:c931:514b%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 7
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone elsaiedadel.net/IN: loaded serial 2026010300
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2026010300
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+resolver priming query complete: timed out
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+shut down hung fetch while resolving 'shavar.services.mozilla.com/A'
+shut down hung fetch while resolving 'shavar.services.mozilla.com/AAAA'
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+no longer listening on ::1#53
+no longer listening on fd17:625c:f037:2:a00:27ff:fefb:7db#53
+no longer listening on fe80::a00:27ff:fefb:7db%2#53
+no longer listening on fe80::424d:d217:c931:514b%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 8
+zone localhost/IN: loaded serial 0
+zone elsaiedadel.net/IN: loaded serial 2026010300
+zone localhost.localdomain/IN: loaded serial 0
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2026010300
+all zones loaded
+running
+resolver priming query complete: timed out
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+client @0x7f6c1c013c38 127.0.0.1#40917 (elsaiedadel.net): transfer of 'elsaiedadel.net/IN': AXFR started (serial 2026010300)
+client @0x7f6c1c013c38 127.0.0.1#40917 (elsaiedadel.net): transfer of 'elsaiedadel.net/IN': AXFR ended: 1 messages, 10 records, 295 bytes, 0.001 secs (295000 bytes/sec) (serial 2026010300)
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+no longer listening on ::1#53
+no longer listening on fd17:625c:f037:2:a00:27ff:fefb:7db#53
+no longer listening on fe80::a00:27ff:fefb:7db%2#53
+no longer listening on fe80::424d:d217:c931:514b%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 9
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2026010300
+zone elsaiedadel.net/IN: loaded serial 2026010300
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+resolver priming query complete: timed out
+broken trust chain resolving 'spocs.getpocket.com/A/IN': 205.251.194.192#53
+connection refused resolving '2.rocky.pool.ntp.org/AAAA/IN': 160.119.216.201#53
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
+managed-keys-zone: Key 20326 for zone . is now trusted (acceptance timer complete)
+managed-keys-zone: Key 38696 for zone . is now trusted (acceptance timer complete)
+received control channel command 'stop'
+no longer listening on 127.0.0.1#53
+no longer listening on 10.0.2.15#53
+no longer listening on 192.168.1.1#53
+no longer listening on ::1#53
+no longer listening on fd17:625c:f037:2:a00:27ff:fefb:7db#53
+no longer listening on fe80::a00:27ff:fefb:7db%2#53
+no longer listening on fe80::424d:d217:c931:514b%3#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+exiting
+managed-keys-zone: loaded serial 12
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.168.192.in-addr.arpa/IN: loaded serial 2026010300
+zone elsaiedadel.net/IN: loaded serial 2026010300
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+listening on IPv4 interface eth0, 10.0.2.15#53
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+network unreachable resolving './DNSKEY/IN': 2001:500:9f::42#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'org/NS/IN': 2001:500:2::c#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'org/NS/IN': 2001:500:2d::d#53
+network unreachable resolving './DNSKEY/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'org/NS/IN': 2001:500:1::53#53
+network unreachable resolving './DNSKEY/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'org/NS/IN': 2001:7fe::53#53
+network unreachable resolving './DNSKEY/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'org/NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'org/NS/IN': 2001:dc3::35#53
+network unreachable resolving './DNSKEY/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'org/NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './DNSKEY/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'org/NS/IN': 2001:500:2f::f#53
+network unreachable resolving './DNSKEY/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'org/NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './DNSKEY/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'org/NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './DNSKEY/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'org/NS/IN': 2001:7fd::1#53
+network unreachable resolving './DNSKEY/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'org/NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'org/NS/IN': 2001:500:9f::42#53
+listening on IPv6 interface eth0, fd17:625c:f037:2:a00:27ff:fefb:7db#53
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+resolver priming query complete: timed out
+client @0x7efd9001cb88 192.168.1.1#42033/key dhcp_updater: updating zone 'elsaiedadel.net/IN': deleting an RR at client.elsaiedadel.net A
+client @0x7efd98217788 192.168.1.1#40560/key dhcp_updater: updating zone 'elsaiedadel.net/IN': delete all rrsets from name 'client.elsaiedadel.net'
+client @0x7efd9001cb88 192.168.1.1#46885/key dhcp_updater: updating zone '1.168.192.in-addr.arpa/IN': delete all rrsets from name '30.1.168.192.in-addr.arpa'
+shut down hung fetch while resolving '2.rocky.pool.ntp.org/A'
+shut down hung fetch while resolving '2.rocky.pool.ntp.org/AAAA'
+shut down hung fetch while resolving 'api.beacondb.net/AAAA'
+shut down hung fetch while resolving 'api.beacondb.net/A'
+no longer listening on fe80::424d:d217:c931:514b%3#53
+no longer listening on 192.168.1.1#53
+listening on IPv6 interface eth1, fe80::bc19:1b17:bbc6:cd99%3#53
+listening on IPv4 interface eth1, 192.168.1.1#53
+shut down hung fetch while resolving './NS'
+resolver priming query complete: operation canceled
+shut down hung fetch while resolving '2.rocky.pool.ntp.org/A'
+shut down hung fetch while resolving '2.rocky.pool.ntp.org/AAAA'
+shut down hung fetch while resolving './DNSKEY'
+resolver priming query complete: timed out
+resolver priming query complete: timed out
+shut down hung fetch while resolving '2.rocky.pool.ntp.org/A'
+shut down hung fetch while resolving '2.rocky.pool.ntp.org/AAAA'
+resolver priming query complete: timed out
+client @0x7efd98236e18 192.168.1.1#37490/key dhcp_updater: updating zone 'elsaiedadel.net/IN': adding an RR at 'client.elsaiedadel.net' A 192.168.1.30
+client @0x7efd98236e18 192.168.1.1#37490/key dhcp_updater: updating zone 'elsaiedadel.net/IN': adding an RR at 'client.elsaiedadel.net' DHCID AAEBX8sospd6ax62I070P8/KanEQSu0ORuU8Usd/yocnWJ8=
+client @0x7efd98236e18 192.168.1.1#58411/key dhcp_updater: updating zone '1.168.192.in-addr.arpa/IN': deleting rrset at '30.1.168.192.in-addr.arpa' PTR
+client @0x7efd98236e18 192.168.1.1#58411/key dhcp_updater: updating zone '1.168.192.in-addr.arpa/IN': deleting rrset at '30.1.168.192.in-addr.arpa' DHCID
+client @0x7efd98236e18 192.168.1.1#58411/key dhcp_updater: updating zone '1.168.192.in-addr.arpa/IN': adding an RR at '30.1.168.192.in-addr.arpa' PTR client.elsaiedadel.net.
+client @0x7efd98236e18 192.168.1.1#58411/key dhcp_updater: updating zone '1.168.192.in-addr.arpa/IN': adding an RR at '30.1.168.192.in-addr.arpa' DHCID AAEBX8sospd6ax62I070P8/KanEQSu0ORuU8Usd/yocnWJ8=
+resolver priming query complete: timed out
+shut down hung fetch while resolving '2.rocky.pool.ntp.org/A'
+shut down hung fetch while resolving '2.rocky.pool.ntp.org/AAAA'
+resolver priming query complete: timed out
+shut down hung fetch while resolving '2.rocky.pool.ntp.org/A'
+shut down hung fetch while resolving '2.rocky.pool.ntp.org/AAAA'
+shut down hung fetch while resolving 'odrs.gnome.org/A'
+shut down hung fetch while resolving 'odrs.gnome.org/AAAA'
+shut down hung fetch while resolving 'mirrors.rockylinux.org/A'
+shut down hung fetch while resolving 'mirrors.rockylinux.org/AAAA'
+resolver priming query complete: timed out
+shut down hung fetch while resolving 'location.services.mozilla.com/A'
+shut down hung fetch while resolving 'location.services.mozilla.com/AAAA'
+shut down hung fetch while resolving 'firefox.settings.services.mozilla.com/A'
+shut down hung fetch while resolving 'firefox.settings.services.mozilla.com/AAAA'
+shut down hung fetch while resolving 'detectportal.firefox.com/AAAA'
+shut down hung fetch while resolving 'detectportal.firefox.com/A'
+shut down hung fetch while resolving 'services.addons.mozilla.org/A'
+shut down hung fetch while resolving 'services.addons.mozilla.org/AAAA'
+shut down hung fetch while resolving 'contile.services.mozilla.com/A'
+shut down hung fetch while resolving 'contile.services.mozilla.com/AAAA'
+shut down hung fetch while resolving 'spocs.getpocket.com/A'
+shut down hung fetch while resolving 'spocs.getpocket.com/AAAA'
+shut down hung fetch while resolving 'git.rockylinux.org/A'
+shut down hung fetch while resolving 'git.rockylinux.org/AAAA'
+shut down hung fetch while resolving 'chat.rockylinux.org/A'
+shut down hung fetch while resolving 'chat.rockylinux.org/AAAA'
+shut down hung fetch while resolving 'wiki.rockylinux.org/A'
+shut down hung fetch while resolving 'wiki.rockylinux.org/AAAA'
+shut down hung fetch while resolving 'forums.rockylinux.org/A'
+shut down hung fetch while resolving 'forums.rockylinux.org/AAAA'
+shut down hung fetch while resolving 'lists.resf.org/A'
+shut down hung fetch while resolving 'lists.resf.org/AAAA'
+shut down hung fetch while resolving 'shavar.services.mozilla.com/A'
+shut down hung fetch while resolving 'shavar.services.mozilla.com/AAAA'
+shut down hung fetch while resolving 'push.services.mozilla.com/A'
+shut down hung fetch while resolving 'push.services.mozilla.com/AAAA'
+shut down hung fetch while resolving 'incoming.telemetry.mozilla.org/A'
+shut down hung fetch while resolving 'incoming.telemetry.mozilla.org/AAAA'
+shut down hung fetch while resolving 'www.youtube.com/AAAA'
+shut down hung fetch while resolving 'www.youtube.com/A'
+shut down hung fetch while resolving 'www.wikipedia.org/A'
+shut down hung fetch while resolving 'www.wikipedia.org/AAAA'
+no longer listening on fe80::bc19:1b17:bbc6:cd99%3#53
+no longer listening on 192.168.1.1#53
+shut down hung fetch while resolving 'addons.mozilla.org/AAAA'
+shut down hung fetch while resolving 'addons.mozilla.org/A'
+no longer listening on fe80::a00:27ff:fefb:7db%2#53
+no longer listening on fd17:625c:f037:2:a00:27ff:fefb:7db#53
+no longer listening on 10.0.2.15#53
+network unreachable resolving 'example.org/A/IN': 2001:500:f::1#53
+network unreachable resolving 'example.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'example.org/A/IN': 199.249.120.1#53
+network unreachable resolving 'example.org/AAAA/IN': 199.249.120.1#53
+network unreachable resolving 'example.org/A/IN': 199.19.54.1#53
+network unreachable resolving 'example.org/AAAA/IN': 199.19.54.1#53
+network unreachable resolving 'example.org/A/IN': 199.19.57.1#53
+network unreachable resolving 'example.org/AAAA/IN': 199.19.57.1#53
+network unreachable resolving 'example.org/A/IN': 2001:500:48::1#53
+network unreachable resolving 'example.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving 'example.org/A/IN': 2001:500:c::1#53
+network unreachable resolving 'example.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'firefox.com/NS/IN': 192.54.112.30#53
+network unreachable resolving 'firefox.com/NS/IN': 2001:500:856e::30#53
+network unreachable resolving 'firefox.com/NS/IN': 192.43.172.30#53
+network unreachable resolving 'firefox.com/NS/IN': 2001:500:d937::30#53
+network unreachable resolving 'firefox.com/NS/IN': 2001:503:eea3::30#53
+network unreachable resolving 'firefox.com/NS/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'firefox.com/NS/IN': 2001:502:7094::30#53
+network unreachable resolving 'firefox.com/NS/IN': 192.52.178.30#53
+network unreachable resolving 'firefox.com/NS/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'firefox.com/NS/IN': 192.12.94.30#53
+network unreachable resolving 'firefox.com/NS/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'firefox.com/NS/IN': 192.26.92.30#53
+network unreachable resolving 'firefox.com/NS/IN': 192.35.51.30#53
+network unreachable resolving 'firefox.com/NS/IN': 2001:502:8cc::30#53
+network unreachable resolving 'firefox.com/NS/IN': 192.31.80.30#53
+network unreachable resolving 'firefox.com/NS/IN': 2001:503:39c1::30#53
+network unreachable resolving 'firefox.com/NS/IN': 192.41.162.30#53
+network unreachable resolving 'firefox.com/NS/IN': 192.42.93.30#53
+network unreachable resolving 'firefox.com/NS/IN': 192.33.14.30#53
+network unreachable resolving 'firefox.com/NS/IN': 192.48.79.30#53
+network unreachable resolving 'firefox.com/NS/IN': 2001:503:d2d::30#53
+network unreachable resolving 'firefox.com/NS/IN': 192.55.83.30#53
+network unreachable resolving 'firefox.com/NS/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'firefox.com/NS/IN': 192.5.6.30#53
+network unreachable resolving 'firefox.com/NS/IN': 2001:503:83eb::30#53
+network unreachable resolving 'firefox.com/NS/IN': 2001:503:d414::30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 192.35.51.30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 192.43.172.30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 192.54.112.30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 192.43.172.30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 192.54.112.30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 192.52.178.30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 192.52.178.30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 192.12.94.30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 192.12.94.30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 192.26.92.30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 192.26.92.30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 192.31.80.30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 192.31.80.30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 192.35.51.30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 192.42.93.30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 192.41.162.30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 192.42.93.30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 192.33.14.30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 192.41.162.30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 192.33.14.30#53
+network unreachable resolving 'detectportal.firefox.com/A/IN': 192.48.79.30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 192.48.79.30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 192.55.83.30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 192.5.6.30#53
+network unreachable resolving 'detectportal.firefox.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.43.172.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:503:d414::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:500:856e::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:503:eea3::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:500:d937::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.52.178.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:502:7094::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.12.94.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:502:8cc::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:503:83eb::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:503:39c1::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.35.51.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.31.80.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.42.93.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.41.162.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.33.14.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.55.83.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:503:d2d::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.48.79.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.5.6.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.54.112.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.26.92.30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 192.43.172.30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 192.43.172.30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 192.31.80.30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 192.31.80.30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 192.35.51.30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 192.35.51.30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 192.52.178.30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 192.52.178.30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 192.12.94.30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 192.12.94.30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 192.41.162.30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 192.41.162.30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 192.42.93.30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 192.42.93.30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 192.33.14.30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 192.33.14.30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 192.55.83.30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 192.55.83.30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 192.48.79.30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 192.48.79.30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 192.5.6.30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 192.5.6.30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 192.54.112.30#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 192.26.92.30#53
+network unreachable resolving 'ipv4only.arpa/A/IN': 192.5.5.241#53
+network unreachable resolving 'ipv4only.arpa/AAAA/IN': 192.5.5.241#53
+network unreachable resolving 'k.ns.arpa/A/IN': 192.112.36.4#53
+network unreachable resolving 'k.ns.arpa/AAAA/IN': 192.112.36.4#53
+network unreachable resolving 'ipv4only.arpa/A/IN': 192.33.4.12#53
+network unreachable resolving 'ipv4only.arpa/AAAA/IN': 192.33.4.12#53
+network unreachable resolving 'k.ns.arpa/A/IN': 192.5.5.241#53
+network unreachable resolving 'k.ns.arpa/AAAA/IN': 192.5.5.241#53
+network unreachable resolving 'ipv4only.arpa/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'ipv4only.arpa/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'k.ns.arpa/A/IN': 2001:500:1::53#53
+network unreachable resolving 'k.ns.arpa/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'ipv4only.arpa/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'ipv4only.arpa/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'k.ns.arpa/A/IN': 192.33.4.12#53
+network unreachable resolving 'k.ns.arpa/AAAA/IN': 192.33.4.12#53
+network unreachable resolving 'ipv4only.arpa/A/IN': 198.41.0.4#53
+network unreachable resolving 'ipv4only.arpa/AAAA/IN': 198.41.0.4#53
+network unreachable resolving 'k.ns.arpa/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'k.ns.arpa/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'ipv4only.arpa/A/IN': 170.247.170.2#53
+network unreachable resolving 'ipv4only.arpa/AAAA/IN': 170.247.170.2#53
+network unreachable resolving 'k.ns.arpa/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'k.ns.arpa/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'ipv4only.arpa/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'ipv4only.arpa/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'k.ns.arpa/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'k.ns.arpa/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'ipv4only.arpa/A/IN': 2001:500:2::c#53
+network unreachable resolving 'ipv4only.arpa/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'k.ns.arpa/A/IN': 198.41.0.4#53
+network unreachable resolving 'k.ns.arpa/AAAA/IN': 198.41.0.4#53
+network unreachable resolving 'ipv4only.arpa/A/IN': 199.7.91.13#53
+network unreachable resolving 'ipv4only.arpa/AAAA/IN': 199.7.91.13#53
+network unreachable resolving 'k.ns.arpa/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'k.ns.arpa/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'ipv4only.arpa/A/IN': 192.203.230.10#53
+network unreachable resolving 'ipv4only.arpa/AAAA/IN': 192.203.230.10#53
+network unreachable resolving 'k.ns.arpa/A/IN': 2001:7fd::1#53
+network unreachable resolving 'k.ns.arpa/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'ipv4only.arpa/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'ipv4only.arpa/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'k.ns.arpa/A/IN': 2001:dc3::35#53
+network unreachable resolving 'k.ns.arpa/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'ipv4only.arpa/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'm.ns.arpa/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'm.ns.arpa/A/IN': 198.97.190.53#53
+network unreachable resolving 'm.ns.arpa/A/IN': 2001:500:2::c#53
+network unreachable resolving 'm.ns.arpa/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'm.ns.arpa/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'm.ns.arpa/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'm.ns.arpa/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'm.ns.arpa/A/IN': 2001:7fd::1#53
+network unreachable resolving 'm.ns.arpa/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'm.ns.arpa/A/IN': 198.41.0.4#53
+network unreachable resolving 'm.ns.arpa/A/IN': 2001:dc3::35#53
+network unreachable resolving 'm.ns.arpa/A/IN': 2801:1b8:10::b#53
+network unreachable resolving 'm.ns.arpa/A/IN': 192.36.148.17#53
+network unreachable resolving 'm.ns.arpa/A/IN': 192.58.128.30#53
+network unreachable resolving 'm.ns.arpa/A/IN': 2001:500:1::53#53
+network unreachable resolving 'm.ns.arpa/A/IN': 192.33.4.12#53
+network unreachable resolving 'm.ns.arpa/A/IN': 199.7.91.13#53
+network unreachable resolving 'm.ns.arpa/A/IN': 192.112.36.4#53
+network unreachable resolving 'm.ns.arpa/A/IN': 192.203.230.10#53
+network unreachable resolving 'm.ns.arpa/A/IN': 199.7.83.42#53
+network unreachable resolving 'm.ns.arpa/A/IN': 193.0.14.129#53
+network unreachable resolving 'm.ns.arpa/A/IN': 192.5.5.241#53
+network unreachable resolving 'm.ns.arpa/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'm.ns.arpa/A/IN': 202.12.27.33#53
+network unreachable resolving 'm.ns.arpa/A/IN': 170.247.170.2#53
+network unreachable resolving 'm.ns.arpa/A/IN': 2001:7fe::53#53
+network unreachable resolving 'm.ns.arpa/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'm.ns.arpa/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'm.ns.arpa/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'm.ns.arpa/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'm.ns.arpa/AAAA/IN': 192.112.36.4#53
+network unreachable resolving 'm.ns.arpa/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'm.ns.arpa/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'm.ns.arpa/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'm.ns.arpa/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'm.ns.arpa/AAAA/IN': 198.41.0.4#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 2001:500:2d::d#53
+network unreachable resolving 'rockylinux.org/NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'mozilla.org/NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 2001:500:9f::42#53
+network unreachable resolving 'rockylinux.org/NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'mozilla.org/NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'rockylinux.org/NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mozilla.org/NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 192.5.5.241#53
+network unreachable resolving 'rockylinux.org/NS/IN': 192.5.5.241#53
+network unreachable resolving 'mozilla.org/NS/IN': 192.5.5.241#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 192.112.36.4#53
+network unreachable resolving 'rockylinux.org/NS/IN': 192.112.36.4#53
+network unreachable resolving 'mozilla.org/NS/IN': 192.112.36.4#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 2001:7fd::1#53
+network unreachable resolving 'rockylinux.org/NS/IN': 2001:7fd::1#53
+network unreachable resolving 'mozilla.org/NS/IN': 2001:7fd::1#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 2001:dc3::35#53
+network unreachable resolving 'rockylinux.org/NS/IN': 2001:dc3::35#53
+network unreachable resolving 'mozilla.org/NS/IN': 2001:dc3::35#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 170.247.170.2#53
+network unreachable resolving 'rockylinux.org/NS/IN': 170.247.170.2#53
+network unreachable resolving 'mozilla.org/NS/IN': 170.247.170.2#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 192.36.148.17#53
+network unreachable resolving 'rockylinux.org/NS/IN': 192.36.148.17#53
+network unreachable resolving 'mozilla.org/NS/IN': 192.36.148.17#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 2001:500:1::53#53
+network unreachable resolving 'rockylinux.org/NS/IN': 2001:500:1::53#53
+network unreachable resolving 'mozilla.org/NS/IN': 2001:500:1::53#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 2001:500:2::c#53
+network unreachable resolving 'rockylinux.org/NS/IN': 2001:500:2::c#53
+network unreachable resolving 'mozilla.org/NS/IN': 2001:500:2::c#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 192.203.230.10#53
+network unreachable resolving 'rockylinux.org/NS/IN': 192.203.230.10#53
+network unreachable resolving 'mozilla.org/NS/IN': 192.203.230.10#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 192.58.128.30#53
+network unreachable resolving 'rockylinux.org/NS/IN': 192.58.128.30#53
+network unreachable resolving 'mozilla.org/NS/IN': 192.58.128.30#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 199.7.91.13#53
+network unreachable resolving 'rockylinux.org/NS/IN': 199.7.91.13#53
+network unreachable resolving 'mozilla.org/NS/IN': 199.7.91.13#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 199.7.83.42#53
+network unreachable resolving 'rockylinux.org/NS/IN': 199.7.83.42#53
+network unreachable resolving 'mozilla.org/NS/IN': 199.7.83.42#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 198.41.0.4#53
+network unreachable resolving 'rockylinux.org/NS/IN': 198.41.0.4#53
+network unreachable resolving 'mozilla.org/NS/IN': 198.41.0.4#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 2001:500:2f::f#53
+network unreachable resolving 'rockylinux.org/NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'mozilla.org/NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'rockylinux.org/NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mozilla.org/NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 193.0.14.129#53
+network unreachable resolving 'rockylinux.org/NS/IN': 193.0.14.129#53
+network unreachable resolving 'mozilla.org/NS/IN': 193.0.14.129#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 202.12.27.33#53
+network unreachable resolving 'rockylinux.org/NS/IN': 202.12.27.33#53
+network unreachable resolving 'wikipedia.org/NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'mozilla.org/NS/IN': 202.12.27.33#53
+network unreachable resolving 'wikipedia.org/NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'wikipedia.org/NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'rockylinux.org/NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'wikipedia.org/NS/IN': 192.5.5.241#53
+network unreachable resolving 'mozilla.org/NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'wikipedia.org/NS/IN': 192.112.36.4#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 2001:7fe::53#53
+network unreachable resolving 'wikipedia.org/NS/IN': 2001:7fd::1#53
+network unreachable resolving 'wikipedia.org/NS/IN': 2001:dc3::35#53
+network unreachable resolving 'wikipedia.org/NS/IN': 170.247.170.2#53
+network unreachable resolving 'rockylinux.org/NS/IN': 2001:7fe::53#53
+network unreachable resolving 'wikipedia.org/NS/IN': 192.36.148.17#53
+network unreachable resolving 'wikipedia.org/NS/IN': 2001:500:1::53#53
+network unreachable resolving 'mozilla.org/NS/IN': 2001:7fe::53#53
+network unreachable resolving 'wikipedia.org/NS/IN': 2001:500:2::c#53
+network unreachable resolving 'wikipedia.org/NS/IN': 192.203.230.10#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'wikipedia.org/NS/IN': 192.58.128.30#53
+network unreachable resolving 'rockylinux.org/NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'wikipedia.org/NS/IN': 199.7.91.13#53
+network unreachable resolving 'mozilla.org/NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'wikipedia.org/NS/IN': 199.7.83.42#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 198.97.190.53#53
+network unreachable resolving 'wikipedia.org/NS/IN': 198.41.0.4#53
+network unreachable resolving 'rockylinux.org/NS/IN': 198.97.190.53#53
+network unreachable resolving 'wikipedia.org/NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'mozilla.org/NS/IN': 198.97.190.53#53
+network unreachable resolving 'wikipedia.org/NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 192.33.4.12#53
+network unreachable resolving 'wikipedia.org/NS/IN': 193.0.14.129#53
+network unreachable resolving 'rockylinux.org/NS/IN': 192.33.4.12#53
+network unreachable resolving 'wikipedia.org/NS/IN': 202.12.27.33#53
+network unreachable resolving 'mozilla.org/NS/IN': 192.33.4.12#53
+network unreachable resolving 'wikipedia.org/NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'rockylinux.org/HTTPS/IN': 2001:500:a8::e#53
+network unreachable resolving 'wikipedia.org/NS/IN': 2001:7fe::53#53
+network unreachable resolving 'rockylinux.org/NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'mozilla.org/NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'addons.mozilla.org/HTTPS/IN': 199.19.57.1#53
+network unreachable resolving 'www.mozilla.org/HTTPS/IN': 199.19.57.1#53
+network unreachable resolving 'www.mozilla.org/A/IN': 199.19.57.1#53
+network unreachable resolving 'www.mozilla.org/AAAA/IN': 199.19.57.1#53
+network unreachable resolving 'addons.mozilla.org/HTTPS/IN': 2001:500:c::1#53
+network unreachable resolving 'www.mozilla.org/HTTPS/IN': 2001:500:c::1#53
+network unreachable resolving 'www.mozilla.org/A/IN': 2001:500:c::1#53
+network unreachable resolving 'www.mozilla.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'addons.mozilla.org/HTTPS/IN': 199.249.120.1#53
+network unreachable resolving 'www.mozilla.org/HTTPS/IN': 199.249.120.1#53
+network unreachable resolving 'www.mozilla.org/A/IN': 199.249.120.1#53
+network unreachable resolving 'www.mozilla.org/AAAA/IN': 199.249.120.1#53
+network unreachable resolving 'addons.mozilla.org/HTTPS/IN': 2001:500:f::1#53
+network unreachable resolving 'www.mozilla.org/HTTPS/IN': 2001:500:f::1#53
+network unreachable resolving 'www.mozilla.org/A/IN': 2001:500:f::1#53
+network unreachable resolving 'www.mozilla.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'addons.mozilla.org/HTTPS/IN': 199.19.54.1#53
+network unreachable resolving 'www.mozilla.org/HTTPS/IN': 199.19.54.1#53
+network unreachable resolving 'www.mozilla.org/A/IN': 199.19.54.1#53
+network unreachable resolving 'www.mozilla.org/AAAA/IN': 199.19.54.1#53
+network unreachable resolving 'addons.mozilla.org/HTTPS/IN': 2001:500:48::1#53
+network unreachable resolving 'www.mozilla.org/HTTPS/IN': 2001:500:48::1#53
+network unreachable resolving 'www.mozilla.org/A/IN': 2001:500:48::1#53
+network unreachable resolving 'www.mozilla.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving 'wikipedia.org/NS/IN': 198.97.190.53#53
+network unreachable resolving 'www.rockylinux.org/A/IN': 199.19.57.1#53
+network unreachable resolving 'www.rockylinux.org/AAAA/IN': 199.19.57.1#53
+network unreachable resolving 'mirrors.rockylinux.org/A/IN': 199.19.57.1#53
+network unreachable resolving 'mirrors.rockylinux.org/AAAA/IN': 199.19.57.1#53
+network unreachable resolving 'rockylinux.org/A/IN': 2001:500:f::1#53
+network unreachable resolving 'wikipedia.org/NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'rockylinux.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'www.rockylinux.org/A/IN': 2001:500:c::1#53
+network unreachable resolving 'www.rockylinux.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'rockylinux.org/A/IN': 2001:500:c::1#53
+network unreachable resolving 'mirrors.rockylinux.org/A/IN': 2001:500:c::1#53
+network unreachable resolving 'rockylinux.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'mirrors.rockylinux.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'ads.mozilla.org/A/IN': 2001:500:f::1#53
+network unreachable resolving 'rockylinux.org/A/IN': 199.249.120.1#53
+network unreachable resolving 'ads.mozilla.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'rockylinux.org/AAAA/IN': 199.249.120.1#53
+network unreachable resolving 'support.mozilla.org/A/IN': 2001:500:f::1#53
+network unreachable resolving 'rockylinux.org/A/IN': 199.19.57.1#53
+network unreachable resolving 'support.mozilla.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'rockylinux.org/AAAA/IN': 199.19.57.1#53
+network unreachable resolving 'support.mozilla.org/HTTPS/IN': 2001:500:f::1#53
+network unreachable resolving 'rockylinux.org/A/IN': 199.19.54.1#53
+network unreachable resolving 'rockylinux.org/AAAA/IN': 199.19.54.1#53
+network unreachable resolving 'rockylinux.org/A/IN': 2001:500:48::1#53
+network unreachable resolving 'wikipedia.org/NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.rockylinux.org/A/IN': 199.249.120.1#53
+network unreachable resolving 'rockylinux.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving 'www.rockylinux.org/AAAA/IN': 199.249.120.1#53
+network unreachable resolving 'mirrors.rockylinux.org/A/IN': 199.249.120.1#53
+network unreachable resolving 'mirrors.rockylinux.org/AAAA/IN': 199.249.120.1#53
+network unreachable resolving 'ads.mozilla.org/A/IN': 2001:500:c::1#53
+network unreachable resolving 'ads.mozilla.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'support.mozilla.org/A/IN': 2001:500:c::1#53
+network unreachable resolving 'support.mozilla.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'support.mozilla.org/HTTPS/IN': 2001:500:c::1#53
+network unreachable resolving 'wikipedia.org/NS/IN': 192.33.4.12#53
+network unreachable resolving 'www.rockylinux.org/A/IN': 2001:500:f::1#53
+network unreachable resolving 'www.rockylinux.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'mirrors.rockylinux.org/A/IN': 2001:500:f::1#53
+network unreachable resolving 'mirrors.rockylinux.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'ads.mozilla.org/A/IN': 199.249.120.1#53
+network unreachable resolving 'ads.mozilla.org/AAAA/IN': 199.249.120.1#53
+network unreachable resolving 'support.mozilla.org/A/IN': 199.249.120.1#53
+network unreachable resolving 'support.mozilla.org/AAAA/IN': 199.249.120.1#53
+network unreachable resolving 'support.mozilla.org/HTTPS/IN': 199.249.120.1#53
+network unreachable resolving 'www.rockylinux.org/A/IN': 199.19.54.1#53
+network unreachable resolving 'www.rockylinux.org/AAAA/IN': 199.19.54.1#53
+network unreachable resolving 'mirrors.rockylinux.org/A/IN': 199.19.54.1#53
+network unreachable resolving 'mirrors.rockylinux.org/AAAA/IN': 199.19.54.1#53
+network unreachable resolving 'ads.mozilla.org/A/IN': 199.19.57.1#53
+network unreachable resolving 'ads.mozilla.org/AAAA/IN': 199.19.57.1#53
+network unreachable resolving 'support.mozilla.org/A/IN': 199.19.57.1#53
+network unreachable resolving 'support.mozilla.org/AAAA/IN': 199.19.57.1#53
+network unreachable resolving 'support.mozilla.org/HTTPS/IN': 199.19.57.1#53
+network unreachable resolving 'www.wikipedia.org/HTTPS/IN': 2001:500:f::1#53
+network unreachable resolving 'www.rockylinux.org/A/IN': 2001:500:48::1#53
+network unreachable resolving 'www.rockylinux.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving 'mirrors.rockylinux.org/A/IN': 2001:500:48::1#53
+network unreachable resolving 'mirrors.rockylinux.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving 'ads.mozilla.org/A/IN': 199.19.54.1#53
+network unreachable resolving 'ads.mozilla.org/AAAA/IN': 199.19.54.1#53
+network unreachable resolving 'support.mozilla.org/A/IN': 199.19.54.1#53
+network unreachable resolving 'support.mozilla.org/AAAA/IN': 199.19.54.1#53
+network unreachable resolving 'support.mozilla.org/HTTPS/IN': 199.19.54.1#53
+network unreachable resolving 'www.wikipedia.org/HTTPS/IN': 2001:500:c::1#53
+network unreachable resolving 'ads.mozilla.org/A/IN': 2001:500:48::1#53
+network unreachable resolving 'ads.mozilla.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving 'support.mozilla.org/A/IN': 2001:500:48::1#53
+network unreachable resolving 'support.mozilla.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving 'support.mozilla.org/HTTPS/IN': 2001:500:48::1#53
+network unreachable resolving 'www.wikipedia.org/HTTPS/IN': 2001:500:48::1#53
+network unreachable resolving 'www.wikipedia.org/HTTPS/IN': 199.19.57.1#53
+network unreachable resolving 'www.wikipedia.org/HTTPS/IN': 199.19.54.1#53
+network unreachable resolving 'www.wikipedia.org/HTTPS/IN': 199.249.120.1#53
+network unreachable resolving 'cloudflare-dns.com/HTTPS/IN': 2400:cb00:2049:1::a29f:21#53
+network unreachable resolving 'cloudflare-dns.com/HTTPS/IN': 2400:cb00:2049:1::a29f:121#53
+network unreachable resolving 'cloudflare-dns.com/HTTPS/IN': 162.159.2.9#53
+network unreachable resolving 'cloudflare-dns.com/HTTPS/IN': 162.159.0.33#53
+network unreachable resolving 'cloudflare-dns.com/HTTPS/IN': 162.159.1.33#53
+network unreachable resolving 'cloudflare-dns.com/HTTPS/IN': 2400:cb00:2049:1::a29f:209#53
+network unreachable resolving 'ns-1029.awsdns-00.org/A/IN': 2001:500:f::1#53
+network unreachable resolving 'ns-1029.awsdns-00.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving 'ns-1029.awsdns-00.org/A/IN': 199.249.120.1#53
+network unreachable resolving 'ns-1029.awsdns-00.org/AAAA/IN': 199.249.120.1#53
+network unreachable resolving 'ns-1029.awsdns-00.org/A/IN': 199.19.54.1#53
+network unreachable resolving 'ns-1029.awsdns-00.org/AAAA/IN': 199.19.54.1#53
+network unreachable resolving 'ns-1029.awsdns-00.org/A/IN': 199.19.57.1#53
+network unreachable resolving 'ns-1029.awsdns-00.org/AAAA/IN': 199.19.57.1#53
+network unreachable resolving 'ns-1029.awsdns-00.org/A/IN': 2001:500:48::1#53
+network unreachable resolving 'ns-1029.awsdns-00.org/AAAA/IN': 2001:500:48::1#53
+network unreachable resolving 'ns-1029.awsdns-00.org/A/IN': 2001:500:c::1#53
+network unreachable resolving 'ns-1029.awsdns-00.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'ns-557.awsdns-05.net/A/IN': 2600:9000:5303:700::1#53
+network unreachable resolving 'ns-557.awsdns-05.net/A/IN': 2600:9000:5307:8500::1#53
+network unreachable resolving 'ns-557.awsdns-05.net/A/IN': 2600:9000:5305:4500::1#53
+network unreachable resolving 'ns-557.awsdns-05.net/A/IN': 205.251.193.198#53
+network unreachable resolving 'ns-557.awsdns-05.net/A/IN': 205.251.195.7#53
+network unreachable resolving 'ns-557.awsdns-05.net/A/IN': 205.251.199.133#53
+network unreachable resolving 'ns-557.awsdns-05.net/A/IN': 205.251.197.69#53
+network unreachable resolving 'ns-557.awsdns-05.net/A/IN': 2600:9000:5301:c600::1#53
+network unreachable resolving 'ns4.google.com/AAAA/IN': 2001:4860:4802:34::a#53
+network unreachable resolving 'ns4.google.com/AAAA/IN': 2001:4860:4802:36::a#53
+network unreachable resolving 'ns4.google.com/AAAA/IN': 2001:4860:4802:38::a#53
+network unreachable resolving 'ns4.google.com/AAAA/IN': 216.239.32.10#53
+network unreachable resolving 'ns4.google.com/AAAA/IN': 216.239.34.10#53
+network unreachable resolving 'ns4.google.com/AAAA/IN': 216.239.36.10#53
+network unreachable resolving 'ns4.google.com/AAAA/IN': 216.239.38.10#53
+network unreachable resolving 'ns4.google.com/AAAA/IN': 2001:4860:4802:32::a#53
+network unreachable resolving 'ns-557.awsdns-05.net/AAAA/IN': 2600:9000:5303:700::1#53
+network unreachable resolving 'ns-1887.awsdns-43.co.uk/AAAA/IN': 2001:502:ad09::3#53
+network unreachable resolving 'ns3.google.com/A/IN': 2001:4860:4802:34::a#53
+network unreachable resolving 'ns-557.awsdns-05.net/AAAA/IN': 2600:9000:5307:8500::1#53
+network unreachable resolving 'ns-1887.awsdns-43.co.uk/AAAA/IN': 2001:502:2eda::3#53
+network unreachable resolving 'ns3.google.com/A/IN': 2001:4860:4802:36::a#53
+network unreachable resolving 'ns-557.awsdns-05.net/AAAA/IN': 2600:9000:5305:4500::1#53
+network unreachable resolving 'ns-1887.awsdns-43.co.uk/AAAA/IN': 2a01:618:400::1#53
+network unreachable resolving 'ns3.google.com/A/IN': 2001:4860:4802:38::a#53
+network unreachable resolving 'ns-557.awsdns-05.net/AAAA/IN': 205.251.193.198#53
+network unreachable resolving 'ns-1887.awsdns-43.co.uk/AAAA/IN': 2401:fd80:400::1#53
+network unreachable resolving 'ns3.google.com/A/IN': 216.239.32.10#53
+network unreachable resolving 'ns-557.awsdns-05.net/AAAA/IN': 205.251.195.7#53
+network unreachable resolving 'ns-1887.awsdns-43.co.uk/AAAA/IN': 2610:a1:1009::3#53
+network unreachable resolving 'ns3.google.com/A/IN': 216.239.34.10#53
+network unreachable resolving 'ns-557.awsdns-05.net/AAAA/IN': 205.251.199.133#53
+network unreachable resolving 'ns-1887.awsdns-43.co.uk/AAAA/IN': 2a01:618:404::1#53
+network unreachable resolving 'ns1.google.com/AAAA/IN': 2001:4860:4802:34::a#53
+network unreachable resolving 'ns1.google.com/AAAA/IN': 2001:4860:4802:36::a#53
+network unreachable resolving 'ns1.google.com/AAAA/IN': 2001:4860:4802:38::a#53
+network unreachable resolving 'ns1.google.com/AAAA/IN': 216.239.32.10#53
+network unreachable resolving 'ns1.google.com/AAAA/IN': 216.239.34.10#53
+network unreachable resolving 'ns1.google.com/AAAA/IN': 216.239.36.10#53
+network unreachable resolving 'ns1.google.com/AAAA/IN': 216.239.38.10#53
+network unreachable resolving 'ns1.google.com/AAAA/IN': 2001:4860:4802:32::a#53
+network unreachable resolving 'ns3.google.com/A/IN': 216.239.36.10#53
+network unreachable resolving 'ns-557.awsdns-05.net/AAAA/IN': 205.251.197.69#53
+network unreachable resolving 'ns3.google.com/A/IN': 216.239.38.10#53
+network unreachable resolving 'ns3.google.com/A/IN': 2001:4860:4802:32::a#53
+network unreachable resolving 'ns3.google.com/AAAA/IN': 2001:4860:4802:34::a#53
+network unreachable resolving 'ns3.google.com/AAAA/IN': 2001:4860:4802:36::a#53
+network unreachable resolving 'ns2.google.com/AAAA/IN': 2001:4860:4802:34::a#53
+network unreachable resolving 'ns2.google.com/A/IN': 2001:4860:4802:34::a#53
+network unreachable resolving 'ns3.google.com/AAAA/IN': 2001:4860:4802:38::a#53
+network unreachable resolving 'ns1.google.com/A/IN': 2001:4860:4802:34::a#53
+network unreachable resolving 'ns4.google.com/A/IN': 2001:4860:4802:34::a#53
+network unreachable resolving 'mozilla.net/NS/IN': 192.52.178.30#53
+network unreachable resolving 'mozilla.net/NS/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'mozilla.net/NS/IN': 192.12.94.30#53
+network unreachable resolving 'mozilla.net/NS/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'mozilla.net/NS/IN': 192.26.92.30#53
+network unreachable resolving 'mozilla.net/NS/IN': 192.35.51.30#53
+network unreachable resolving 'mozilla.net/NS/IN': 192.33.14.30#53
+network unreachable resolving 'mozilla.net/NS/IN': 192.31.80.30#53
+network unreachable resolving 'mozilla.net/NS/IN': 2001:502:8cc::30#53
+network unreachable resolving 'mozilla.net/NS/IN': 192.41.162.30#53
+network unreachable resolving 'mozilla.net/NS/IN': 192.43.172.30#53
+network unreachable resolving 'mozilla.net/NS/IN': 192.42.93.30#53
+network unreachable resolving 'mozilla.net/NS/IN': 192.48.79.30#53
+network unreachable resolving 'mozilla.net/NS/IN': 2001:503:d2d::30#53
+network unreachable resolving 'mozilla.net/NS/IN': 192.55.83.30#53
+network unreachable resolving 'mozilla.net/NS/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'mozilla.net/NS/IN': 192.5.6.30#53
+network unreachable resolving 'mozilla.net/NS/IN': 2001:503:83eb::30#53
+network unreachable resolving 'mozilla.net/NS/IN': 2001:500:856e::30#53
+network unreachable resolving 'mozilla.net/NS/IN': 2001:503:d414::30#53
+network unreachable resolving 'mozilla.net/NS/IN': 2001:500:d937::30#53
+network unreachable resolving 'mozilla.net/NS/IN': 2001:503:eea3::30#53
+network unreachable resolving 'mozilla.net/NS/IN': 2001:502:7094::30#53
+network unreachable resolving 'mozilla.net/NS/IN': 2001:503:39c1::30#53
+network unreachable resolving 'mozilla.net/NS/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'mozilla.net/NS/IN': 192.54.112.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/A/IN': 192.31.80.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 192.31.80.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/A/IN': 192.35.51.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 192.35.51.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/A/IN': 192.41.162.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 192.41.162.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/A/IN': 192.42.93.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 192.42.93.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/A/IN': 192.43.172.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 192.43.172.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/A/IN': 192.52.178.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 192.52.178.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/A/IN': 192.12.94.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 192.12.94.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/A/IN': 192.5.6.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 192.5.6.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/A/IN': 2001:503:83eb::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 192.48.79.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 192.55.83.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 192.33.14.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 192.54.112.30#53
+network unreachable resolving 'normandy.cdn.mozilla.net/AAAA/IN': 192.26.92.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.31.80.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.35.51.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.41.162.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.43.172.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.42.93.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:502:7094::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.52.178.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.12.94.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:502:8cc::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:503:83eb::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:500:856e::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:503:d414::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:500:d937::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:503:39c1::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:503:eea3::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.48.79.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.55.83.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:503:d2d::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.33.14.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.5.6.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.54.112.30#53
+network unreachable resolving 'mozilla.com/NS/IN': 192.26.92.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 192.41.162.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 192.31.80.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 192.31.80.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 192.35.51.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 192.41.162.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 2001:502:7094::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 192.35.51.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 2001:503:eea3::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 2001:502:7094::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 192.43.172.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 2001:503:eea3::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 192.43.172.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 192.52.178.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 2001:501:b1f9::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 192.52.178.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 2001:502:8cc::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 2001:503:231d::2:30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 192.12.94.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 2001:502:8cc::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 192.12.94.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 192.26.92.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 2001:503:a83e::2:30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 2001:500:d937::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 192.26.92.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 2001:500:856e::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 2001:500:856e::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 2001:503:d414::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 2001:500:d937::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 192.48.79.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 2001:503:d414::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 192.42.93.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 192.48.79.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 2001:503:39c1::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 192.42.93.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 192.55.83.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 2001:503:39c1::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 2001:503:d2d::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 192.55.83.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 192.33.14.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 2001:503:d2d::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/A/IN': 192.54.112.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 192.33.14.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 192.54.112.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 2001:502:1ca1::30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 192.5.6.30#53
+network unreachable resolving 'firefox.settings.services.mozilla.com/AAAA/IN': 2001:503:83eb::30#53
+network unreachable resolving 'ntp.org/NS/IN': 199.249.120.1#53
+network unreachable resolving 'ntp.org/NS/IN': 199.19.54.1#53
+network unreachable resolving 'ntp.org/NS/IN': 199.19.57.1#53
+network unreachable resolving 'rocky.pool.ntp.org/NS/IN': 2001:500:f::1#53
+network unreachable resolving 'rocky.pool.ntp.org/NS/IN': 2001:500:c::1#53
+network unreachable resolving 'rocky.pool.ntp.org/NS/IN': 199.249.120.1#53
+network unreachable resolving 'rocky.pool.ntp.org/NS/IN': 199.19.57.1#53
+network unreachable resolving 'rocky.pool.ntp.org/NS/IN': 199.19.54.1#53
+network unreachable resolving 'rocky.pool.ntp.org/NS/IN': 2001:500:48::1#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 2001:500:f::1#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 199.249.120.1#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 199.19.57.1#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 199.19.54.1#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 2001:500:48::1#53
+listening on IPv6 interface eth0, fe80::a00:27ff:fefb:7db%2#53
+listening on IPv4 interface eth0, 10.0.2.15#53
+network unreachable resolving 'ntp.org/NS/IN': 2001:500:c::1#53
+network unreachable resolving 'ntp.org/NS/IN': 2001:500:f::1#53
+network unreachable resolving 'ns1.everett.org/A/IN': 2001:500:c::1#53
+network unreachable resolving 'ns1.everett.org/AAAA/IN': 2001:500:c::1#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2001:500:1::53#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'dns1.udel.edu/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'dns1.udel.edu/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'dns2.udel.edu/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'dns2.udel.edu/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'dns2.udel.edu/A/IN': 2001:500:1::53#53
+network unreachable resolving 'dns2.udel.edu/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'anyns.pch.net/AAAA/IN': 2620:0:872::231:3#53
+network unreachable resolving 'anyns.pch.net/A/IN': 2620:0:872::231:3#53
+network unreachable resolving 'anyns.pch.net/AAAA/IN': 2602:fe55:5::5#53
+network unreachable resolving 'anyns.pch.net/A/IN': 2602:fe55:5::5#53
+network unreachable resolving 'anyns.pch.net/AAAA/IN': 2001:500:14:6004:ad::1#53
+network unreachable resolving 'anyns.pch.net/A/IN': 2001:500:14:6004:ad::1#53
+network unreachable resolving 'ns1.eu.bitnames.com/A/IN': 2a03:b0c0:3:d0::c0:4001#53
+network unreachable resolving 'ns1.eu.bitnames.com/AAAA/IN': 2a03:b0c0:3:d0::c0:4001#53
+network unreachable resolving 'ns1.eu.bitnames.com/A/IN': 2400:6180:0:d0::16e6:2001#53
+network unreachable resolving 'ns1.eu.bitnames.com/AAAA/IN': 2400:6180:0:d0::16e6:2001#53
+network unreachable resolving 'ns1.eu.bitnames.com/A/IN': 2604:a880:2:d0::1ce8:7001#53
+network unreachable resolving 'ns1.eu.bitnames.com/AAAA/IN': 2604:a880:2:d0::1ce8:7001#53
+network unreachable resolving 'ns1.eu.bitnames.com/A/IN': 2a03:b0c0:2:d0::20:1001#53
+network unreachable resolving 'ns1.eu.bitnames.com/AAAA/IN': 2a03:b0c0:2:d0::20:1001#53
+network unreachable resolving 'ns2.us.bitnames.com/AAAA/IN': 2a03:b0c0:2:d0::20:1001#53
+network unreachable resolving 'ns1.us.bitnames.com/A/IN': 2a03:b0c0:2:d0::20:1001#53
+network unreachable resolving 'ns2.eu.bitnames.com/A/IN': 2a03:b0c0:2:d0::20:1001#53
+broken trust chain resolving 'rocky.pool.ntp.org/NS/IN': 139.178.66.41#53
+network unreachable resolving 'b.iana-servers.net/AAAA/IN': 2001:500:8e::53#53
+network unreachable resolving 'b.iana-servers.net/AAAA/IN': 2001:500:8f::53#53
+network unreachable resolving 'a.iana-servers.net/A/IN': 2001:500:8e::53#53
+network unreachable resolving 'b.iana-servers.net/AAAA/IN': 2001:500:8d::53#53
+network unreachable resolving 'c.iana-servers.net/A/IN': 2001:500:8f::53#53
+network unreachable resolving 'a.iana-servers.net/A/IN': 2001:500:8f::53#53
+network unreachable resolving 'c.iana-servers.net/A/IN': 2001:500:8d::53#53
+network unreachable resolving 'a.iana-servers.net/A/IN': 2001:500:8d::53#53
+network unreachable resolving 'a.iana-servers.net/AAAA/IN': 2001:500:8d::53#53
+network unreachable resolving 'ns.icann.org/A/IN': 2001:500:89::53#53
+network unreachable resolving 'ns.icann.org/AAAA/IN': 2001:500:89::53#53
+network unreachable resolving 'ns1-240.akam.net/A/IN': 2600:1480:9000::43#53
+network unreachable resolving 'ns7-66.akam.net/A/IN': 2600:1480:9000::43#53
+network unreachable resolving 'ns1-240.akam.net/A/IN': 2600:1480:f000::43#53
+network unreachable resolving 'ns7-66.akam.net/A/IN': 2600:1480:f000::43#53
+network unreachable resolving 'ns1-240.akam.net/A/IN': 2600:1480:7800::43#53
+network unreachable resolving 'ns7-66.akam.net/A/IN': 2600:1480:7800::43#53
+network unreachable resolving 'ns1-240.akam.net/A/IN': 2600:1480:1::43#53
+network unreachable resolving 'ns7-66.akam.net/A/IN': 2600:1480:1::43#53
+network unreachable resolving 'ns1-240.akam.net/A/IN': 2600:1401:2::43#53
+network unreachable resolving 'ns7-66.akam.net/A/IN': 2600:1401:2::43#53
+network unreachable resolving 'ns1-240.akam.net/A/IN': 2600:1401:1::43#53
+network unreachable resolving 'ns7-66.akam.net/A/IN': 2600:1401:1::43#53
+network unreachable resolving 'ns1-240.akam.net/A/IN': 2600:1480:4800::43#53
+network unreachable resolving 'ns7-66.akam.net/A/IN': 2600:1480:4800::43#53
+network unreachable resolving 'ns1-240.akam.net/A/IN': 2600:1480:d800::43#53
+network unreachable resolving 'ns7-66.akam.net/A/IN': 2600:1480:d800::43#53
+network unreachable resolving 'ns4-64.akam.net/AAAA/IN': 2600:1480:7800::43#53
+network unreachable resolving 'ns4-64.akam.net/AAAA/IN': 2600:1480:4800::43#53
+network unreachable resolving 'ns4-64.akam.net/AAAA/IN': 2600:1401:1::43#53
+network unreachable resolving 'mitch.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:937#53
+network unreachable resolving 'mitch.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:837#53
+network unreachable resolving 'mitch.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:7e2#53
+network unreachable resolving 'mitch.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:408#53
+network unreachable resolving 'mitch.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:30b#53
+network unreachable resolving 'katelyn.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:606#53
+network unreachable resolving 'katelyn.ns.cloudflare.com/A/IN': 2400:cb00:2049:1::a29f:506#53
+network unreachable resolving 'c.icann-servers.net/AAAA/IN': 2001:500:89::53#53
+network unreachable resolving 'ns-1655.awsdns-14.co.uk/A/IN': 2401:fd80:404::1#53
+network unreachable resolving 'ns-1655.awsdns-14.co.uk/AAAA/IN': 2401:fd80:404::1#53
+network unreachable resolving 'ns-1655.awsdns-14.co.uk/A/IN': 2a01:618:400::1#53
+network unreachable resolving 'ns-1655.awsdns-14.co.uk/AAAA/IN': 2a01:618:400::1#53
+network unreachable resolving 'example.org/DNSKEY/IN': 2606:4700:58::adf5:3bd0#53
+network unreachable resolving 'example.org/DNSKEY/IN': 2606:4700:50::a29f:26eb#53
+network unreachable resolving 'example.org/DNSKEY/IN': 2803:f800:50::6ca2:c1d0#53
+network unreachable resolving 'example.org/DNSKEY/IN': 2a06:98c1:50::ac40:22eb#53
+network unreachable resolving 'example.org/DNSKEY/IN': 2a06:98c1:50::ac40:21d0#53
+network unreachable resolving 'example.org/DNSKEY/IN': 2803:f800:50::6ca2:c2eb#53
+network unreachable resolving 'ns-1655.awsdns-14.co.uk/AAAA/IN': 2600:9000:5307:1200::1#53
+network unreachable resolving 'ns-1655.awsdns-14.co.uk/AAAA/IN': 2600:9000:5303:8e00::1#53
+network unreachable resolving 'ns-1655.awsdns-14.co.uk/AAAA/IN': 2600:9000:5305:d100::1#53
+network unreachable resolving 'ns-1655.awsdns-14.co.uk/AAAA/IN': 2600:9000:5301:4e00::1#53
+network unreachable resolving 'ns-1655.awsdns-14.co.uk/A/IN': 2600:9000:5305:d100::1#53
+network unreachable resolving 'ns-679.awsdns-20.net/A/IN': 2600:9000:5303:1600::1#53
+network unreachable resolving 'ns-679.awsdns-20.net/A/IN': 2600:9000:5305:5400::1#53
+network unreachable resolving 'ns-679.awsdns-20.net/A/IN': 2600:9000:5301:d500::1#53
+network unreachable resolving 'ns-679.awsdns-20.net/A/IN': 2600:9000:5307:9400::1#53
+network unreachable resolving 'ns-258.awsdns-32.com/AAAA/IN': 2600:9000:5304:a000::1#53
+network unreachable resolving 'ns-258.awsdns-32.com/AAAA/IN': 2600:9000:5306:e000::1#53
+network unreachable resolving 'ns-258.awsdns-32.com/AAAA/IN': 2600:9000:5302:6000::1#53
+network unreachable resolving 'ns-258.awsdns-32.com/AAAA/IN': 2600:9000:5300:2100::1#53
+network unreachable resolving 'ns-679.awsdns-20.net/AAAA/IN': 2600:9000:5301:d500::1#53
+network unreachable resolving 'ns-258.awsdns-32.com/A/IN': 2600:9000:5302:6000::1#53
+network unreachable resolving 'ns-1471.awsdns-55.org/AAAA/IN': 2600:9000:5302:f900::1#53
+network unreachable resolving 'ns-1471.awsdns-55.org/AAAA/IN': 2600:9000:5300:b700::1#53
+network unreachable resolving 'ns-1471.awsdns-55.org/AAAA/IN': 2600:9000:5306:7700::1#53
+network unreachable resolving 'ns-1471.awsdns-55.org/AAAA/IN': 2600:9000:5304:3a00::1#53
+network unreachable resolving 'ns-1471.awsdns-55.org/A/IN': 2600:9000:5306:7700::1#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2600:9000:5306:7700::1#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2600:9000:5306:7700::1#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2600:9000:5302:a700::1#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2600:9000:5302:a700::1#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2600:9000:5301:200::1#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2600:9000:5301:200::1#53
+network unreachable resolving 'ns-1995.awsdns-57.co.uk/A/IN': 2401:fd80:404::1#53
+network unreachable resolving 'ns-1995.awsdns-57.co.uk/AAAA/IN': 2401:fd80:404::1#53
+network unreachable resolving 'push.services.mozilla.com/A/IN': 2600:9000:5305:bf00::1#53
+network unreachable resolving 'push.services.mozilla.com/AAAA/IN': 2600:9000:5305:bf00::1#53
+network unreachable resolving 'ns-1995.awsdns-57.co.uk/AAAA/IN': 2600:9000:5301:7900::1#53
+network unreachable resolving 'ns-1995.awsdns-57.co.uk/AAAA/IN': 2600:9000:5303:b900::1#53
+network unreachable resolving 'ns-1995.awsdns-57.co.uk/AAAA/IN': 2600:9000:5305:fc00::1#53
+network unreachable resolving 'ns-1995.awsdns-57.co.uk/AAAA/IN': 2600:9000:5307:3d00::1#53
+network unreachable resolving 'ns-1995.awsdns-57.co.uk/A/IN': 2600:9000:5307:3d00::1#53
+network unreachable resolving 'ns-865.awsdns-44.net/A/IN': 2600:9000:5301:ed00::1#53
+network unreachable resolving 'ns-865.awsdns-44.net/A/IN': 2600:9000:5305:6c00::1#53
+network unreachable resolving 'ns-865.awsdns-44.net/A/IN': 2600:9000:5307:ac00::1#53
+network unreachable resolving 'ns-865.awsdns-44.net/A/IN': 2600:9000:5303:2e00::1#53
+network unreachable resolving 'ns-178.awsdns-22.com/AAAA/IN': 2600:9000:5306:d600::1#53
+network unreachable resolving 'ns-178.awsdns-22.com/AAAA/IN': 2600:9000:5302:5600::1#53
+network unreachable resolving 'ns-178.awsdns-22.com/AAAA/IN': 2600:9000:5300:1700::1#53
+network unreachable resolving 'ns-178.awsdns-22.com/AAAA/IN': 2600:9000:5304:9600::1#53
+network unreachable resolving 'ns-865.awsdns-44.net/AAAA/IN': 2600:9000:5307:ac00::1#53
+network unreachable resolving 'ns-178.awsdns-22.com/A/IN': 2600:9000:5304:9600::1#53
+network unreachable resolving 'ns-1084.awsdns-07.org/A/IN': 2600:9000:5304:a00::1#53
+network unreachable resolving 'ns-1084.awsdns-07.org/A/IN': 2600:9000:5302:c900::1#53
+network unreachable resolving 'ns-1084.awsdns-07.org/A/IN': 2600:9000:5300:8700::1#53
+network unreachable resolving 'ns-1084.awsdns-07.org/A/IN': 2600:9000:5306:4700::1#53
+network unreachable resolving 'ns-1084.awsdns-07.org/AAAA/IN': 2600:9000:5300:8700::1#53
+network unreachable resolving 'prod.mozaws.net/NS/IN': 2600:9000:5307:cb00::1#53
+network unreachable resolving 'support.mozilla.org/A/IN': 2600:1401:2::f0#53
+network unreachable resolving 'support.mozilla.org/AAAA/IN': 2600:1401:2::f0#53
+network unreachable resolving 'support.mozilla.org/HTTPS/IN': 2600:1401:2::f0#53
+network unreachable resolving 'ns-377.awsdns-47.com/A/IN': 2600:9000:5304:af00::1#53
+network unreachable resolving 'ns-377.awsdns-47.com/AAAA/IN': 2600:9000:5304:af00::1#53
+listening on IPv6 interface eth0, fd17:625c:f037:2:a00:27ff:fefb:7db#53
+listening on IPv6 interface eth1, fe80::bc19:1b17:bbc6:cd99%3#53
+listening on IPv4 interface eth1, 192.168.1.1#53
+received control channel command 'reload'
+loading configuration from '/etc/named.conf'
+the working directory is now '/var/named'
+unable to open '/etc/bind.keys'; using built-in keys instead
+looking for GeoIP2 databases in '/usr/share/GeoIP'
+using default UDP/IPv4 port range: [32768, 60999]
+using default UDP/IPv6 port range: [32768, 60999]
+sizing zone task pool based on 8 zones
+none:100: 'max-cache-size 90%' - setting to 1518MB (out of 1687MB)
+automatic empty zone: 10.IN-ADDR.ARPA
+automatic empty zone: 16.172.IN-ADDR.ARPA
+automatic empty zone: 17.172.IN-ADDR.ARPA
+automatic empty zone: 18.172.IN-ADDR.ARPA
+automatic empty zone: 19.172.IN-ADDR.ARPA
+automatic empty zone: 20.172.IN-ADDR.ARPA
+automatic empty zone: 21.172.IN-ADDR.ARPA
+automatic empty zone: 22.172.IN-ADDR.ARPA
+automatic empty zone: 23.172.IN-ADDR.ARPA
+automatic empty zone: 24.172.IN-ADDR.ARPA
+automatic empty zone: 25.172.IN-ADDR.ARPA
+automatic empty zone: 26.172.IN-ADDR.ARPA
+automatic empty zone: 27.172.IN-ADDR.ARPA
+automatic empty zone: 28.172.IN-ADDR.ARPA
+automatic empty zone: 29.172.IN-ADDR.ARPA
+automatic empty zone: 30.172.IN-ADDR.ARPA
+automatic empty zone: 31.172.IN-ADDR.ARPA
+automatic empty zone: 168.192.IN-ADDR.ARPA
+automatic empty zone: 64.100.IN-ADDR.ARPA
+automatic empty zone: 65.100.IN-ADDR.ARPA
+automatic empty zone: 66.100.IN-ADDR.ARPA
+automatic empty zone: 67.100.IN-ADDR.ARPA
+automatic empty zone: 68.100.IN-ADDR.ARPA
+automatic empty zone: 69.100.IN-ADDR.ARPA
+automatic empty zone: 70.100.IN-ADDR.ARPA
+automatic empty zone: 71.100.IN-ADDR.ARPA
+automatic empty zone: 72.100.IN-ADDR.ARPA
+automatic empty zone: 73.100.IN-ADDR.ARPA
+automatic empty zone: 74.100.IN-ADDR.ARPA
+automatic empty zone: 75.100.IN-ADDR.ARPA
+automatic empty zone: 76.100.IN-ADDR.ARPA
+automatic empty zone: 77.100.IN-ADDR.ARPA
+automatic empty zone: 78.100.IN-ADDR.ARPA
+automatic empty zone: 79.100.IN-ADDR.ARPA
+automatic empty zone: 80.100.IN-ADDR.ARPA
+automatic empty zone: 81.100.IN-ADDR.ARPA
+automatic empty zone: 82.100.IN-ADDR.ARPA
+automatic empty zone: 83.100.IN-ADDR.ARPA
+automatic empty zone: 84.100.IN-ADDR.ARPA
+automatic empty zone: 85.100.IN-ADDR.ARPA
+automatic empty zone: 86.100.IN-ADDR.ARPA
+automatic empty zone: 87.100.IN-ADDR.ARPA
+automatic empty zone: 88.100.IN-ADDR.ARPA
+automatic empty zone: 89.100.IN-ADDR.ARPA
+automatic empty zone: 90.100.IN-ADDR.ARPA
+automatic empty zone: 91.100.IN-ADDR.ARPA
+automatic empty zone: 92.100.IN-ADDR.ARPA
+automatic empty zone: 93.100.IN-ADDR.ARPA
+automatic empty zone: 94.100.IN-ADDR.ARPA
+automatic empty zone: 95.100.IN-ADDR.ARPA
+automatic empty zone: 96.100.IN-ADDR.ARPA
+automatic empty zone: 97.100.IN-ADDR.ARPA
+automatic empty zone: 98.100.IN-ADDR.ARPA
+automatic empty zone: 99.100.IN-ADDR.ARPA
+automatic empty zone: 100.100.IN-ADDR.ARPA
+automatic empty zone: 101.100.IN-ADDR.ARPA
+automatic empty zone: 102.100.IN-ADDR.ARPA
+automatic empty zone: 103.100.IN-ADDR.ARPA
+automatic empty zone: 104.100.IN-ADDR.ARPA
+automatic empty zone: 105.100.IN-ADDR.ARPA
+automatic empty zone: 106.100.IN-ADDR.ARPA
+automatic empty zone: 107.100.IN-ADDR.ARPA
+automatic empty zone: 108.100.IN-ADDR.ARPA
+automatic empty zone: 109.100.IN-ADDR.ARPA
+automatic empty zone: 110.100.IN-ADDR.ARPA
+automatic empty zone: 111.100.IN-ADDR.ARPA
+automatic empty zone: 112.100.IN-ADDR.ARPA
+automatic empty zone: 113.100.IN-ADDR.ARPA
+automatic empty zone: 114.100.IN-ADDR.ARPA
+automatic empty zone: 115.100.IN-ADDR.ARPA
+automatic empty zone: 116.100.IN-ADDR.ARPA
+automatic empty zone: 117.100.IN-ADDR.ARPA
+automatic empty zone: 118.100.IN-ADDR.ARPA
+automatic empty zone: 119.100.IN-ADDR.ARPA
+automatic empty zone: 120.100.IN-ADDR.ARPA
+automatic empty zone: 121.100.IN-ADDR.ARPA
+automatic empty zone: 122.100.IN-ADDR.ARPA
+automatic empty zone: 123.100.IN-ADDR.ARPA
+automatic empty zone: 124.100.IN-ADDR.ARPA
+automatic empty zone: 125.100.IN-ADDR.ARPA
+automatic empty zone: 126.100.IN-ADDR.ARPA
+automatic empty zone: 127.100.IN-ADDR.ARPA
+automatic empty zone: 127.IN-ADDR.ARPA
+automatic empty zone: 254.169.IN-ADDR.ARPA
+automatic empty zone: 2.0.192.IN-ADDR.ARPA
+automatic empty zone: 100.51.198.IN-ADDR.ARPA
+automatic empty zone: 113.0.203.IN-ADDR.ARPA
+automatic empty zone: 255.255.255.255.IN-ADDR.ARPA
+automatic empty zone: 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA
+automatic empty zone: D.F.IP6.ARPA
+automatic empty zone: 8.E.F.IP6.ARPA
+automatic empty zone: 9.E.F.IP6.ARPA
+automatic empty zone: A.E.F.IP6.ARPA
+automatic empty zone: B.E.F.IP6.ARPA
+automatic empty zone: 8.B.D.0.1.0.0.2.IP6.ARPA
+automatic empty zone: EMPTY.AS112.ARPA
+automatic empty zone: HOME.ARPA
+automatic empty zone: RESOLVER.ARPA
+configuring command channel from '/etc/rndc.key'
+configuring command channel from '/etc/rndc.key'
