@@ -1,0 +1,50 @@
+[DEFAULT]
+bantime = 3600
+ignoreip = 127.0.0.1/8 192.168.1.30
+
+[sshd]
+port = ssh,2022
+enabled = true
+
+[sshd-ddos]
+filter = sshd
+enabled = true
+
+[selinux-ssh]
+enabled = true
+
+[apache-badbots]
+enabled = true
+
+[apache-noscript]
+enabled = true
+
+[apache-overflows]
+enabled = true
+
+[apache-nohome]
+enabled = true
+
+[apache-botsearch]
+enabled = true
+
+[apache-fakegooglebot]
+enabled = true
+
+[apache-modsecurity]
+enabled = true
+
+[apache-shellshock]
+enabled = true
+
+[postfix]
+enabled = true
+
+[postfix-rbl]
+enabled = true
+
+[dovecot]
+enabled = true
+
+[postfix-sasl]
+enabled = true
